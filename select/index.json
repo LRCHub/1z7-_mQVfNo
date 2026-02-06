@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "base_track": "My Way",
+  "base_artist": "フランク・シナトラ",
+  "createdAt": "2026-02-06T21:57:02.009109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker feat. Sabrina Carpenter & Farruko",
+      "has_synced": true,
+      "path": "select/01_On_My_Way_Alan_Walker_feat._Sabrina_Carpenter_&_Farruko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker;Farruko;Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/02_On_My_Way_Alan_Walker;Farruko;Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On My Way to You",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/03_On_My_Way_to_You_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On My Way (Mixed)",
+      "artist": "Alan Walker & Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/04_On_My_Way_(Mixed)_Alan_Walker_&_Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/05_On_My_Way_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whiskey’d My Way",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/06_Whiskey’d_My_Way_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Way by Nature",
+      "artist": "Fettes Brot",
+      "has_synced": true,
+      "path": "select/07_My_Way_by_Nature_Fettes_Brot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fucked My Way Up To The Top",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/08_Fucked_My_Way_Up_To_The_Top_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I’m On My Way",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/09_I’m_On_My_Way_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everything Goes My Way",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/10_Everything_Goes_My_Way_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Mr. Fingers",
+      "has_synced": false,
+      "path": "select/11_On_My_Way_Mr._Fingers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Find My Way",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/12_Find_My_Way_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Find My Way - Oneohtrix Point Never Remix",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/13_Find_My_Way_-_Oneohtrix_Point_Never_Remix_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Find My Way Home",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/14_I'll_Find_My_Way_Home_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Find My Way Home",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/15_I'll_Find_My_Way_Home_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love My Way",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/16_Love_My_Way_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "This Time (I'm Gonna Try It My Way)",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/17_This_Time_(I'm_Gonna_Try_It_My_Way)_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ultra Violet (Light My Way)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/18_Ultra_Violet_(Light_My_Way)_U2.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Wouldn't Have It Any Other Way",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/19_I_Wouldn't_Have_It_Any_Other_Way_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Longneck Way To Go",
+      "artist": "Midland feat. Jon Pardi",
+      "has_synced": true,
+      "path": "select/20_Longneck_Way_To_Go_Midland_feat._Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Longneck Way To Go",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/21_Longneck_Way_To_Go_Midland.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Way Down",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/22_Way_Down_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way?)",
+      "artist": "Maria McKee",
+      "has_synced": true,
+      "path": "select/23_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way_)_Maria_McKee.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way)",
+      "artist": "PAUL WORLEY",
+      "has_synced": true,
+      "path": "select/24_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way)_PAUL_WORLEY.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Any Way The Wind Blows",
+      "artist": "Southern Pacific",
+      "has_synced": true,
+      "path": "select/25_Any_Way_The_Wind_Blows_Southern_Pacific.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Are You Sure Hank Done It This Way",
+      "artist": "The Highwaymen",
+      "has_synced": false,
+      "path": "select/26_Are_You_Sure_Hank_Done_It_This_Way_The_Highwaymen.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Are You Sure Hank Done It This Way - Live",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/27_Are_You_Sure_Hank_Done_It_This_Way_-_Live_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Are You Sure Hank Done It This Way (Buddha remastered August, 2001)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/28_Are_You_Sure_Hank_Done_It_This_Way_(Buddha_remastered_August,_2001)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Are You Sure Waylon Done It This Way",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/29_Are_You_Sure_Waylon_Done_It_This_Way_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Didn't Expect It To Go Down This Way",
+      "artist": "K.T. Oslin",
+      "has_synced": true,
+      "path": "select/30_Didn't_Expect_It_To_Go_Down_This_Way_K.T._Oslin.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/31_Either_Way_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/32_Either_Way_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Every Which Way but Loose",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/33_Every_Which_Way_but_Loose_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Every Which Way but Loose (2009 Remaster)",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/34_Every_Which_Way_but_Loose_(2009_Remaster)_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Guess Things Happen That Way - 1958 Single Version",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/35_Guess_Things_Happen_That_Way_-_1958_Single_Version_Johnny_Cash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Way You Look Tonight",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/pl_01_The_Way_You_Look_Tonight_Frank_Sinatra.txt"
+    }
+  ]
+}
